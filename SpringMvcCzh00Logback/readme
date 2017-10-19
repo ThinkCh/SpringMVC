@@ -1,0 +1,11 @@
+
+1.
+https://logback.qos.ch/manual/appenders.html
+
+2.
+http://www.mkyong.com/spring-mvc/spring-mvc-logback-slf4j-example/
+http://www.mkyong.com/logging/log4j-log4j-properties-examples/
+
+3.
+http://logging.apache.org/log4j/1.2/manual.html
+http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/PatternLayout.html
